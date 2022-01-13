@@ -9,6 +9,8 @@ Hi there ✋ I am Gus Costa
 
 📘 Self driven
 
+🎨 Strong Design Skills
+
 🌞 Based in Sydney Australia
 
 💾 https://www.guscosta.com/
