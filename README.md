@@ -1,16 +1,16 @@
 
-Hi there ✋ I am Gus Costa
+Hi there ✋ I am Gus Costa.
 
-💻 I'm a Web Developer
+💻 I'm a Web Developer.
 
-🎓 Diploma of Website Development from TAFE Ultimo
+🎓 Diploma of Website Development from TAFE Ultimo.
 
-🚀 I love coding and developing my skills
+🚀 Proficient in HTML, Css, Javascript, PHP.
 
-📘 Self driven
+📘 Self driven.
 
-🎨 Strong Design Skills
+🎨 Strong Design Skills.
 
-🌞 Based in Sydney Australia
+🌞 Based in Sydney Australia.
 
 💾 https://www.guscosta.com/
