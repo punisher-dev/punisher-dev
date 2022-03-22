@@ -13,4 +13,4 @@ Hi there ✋ I am Gus Costa.
 
 🌞 Based in Sydney Australia.
 
-💾 https://www.guscosta.com/
+💾 https://guscosta.herokuapp.com/
