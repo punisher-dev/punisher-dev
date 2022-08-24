@@ -1,11 +1,15 @@
 
 Hi there ✋ I am Gus Costa.
 
-💻 I'm a Web Developer.
+💻 I'm a Full Stack Developer.
+
+🎓 Diploma of Information Technology from Coder Academy (Currently Enrolled).
 
 🎓 Diploma of Website Development from TAFE Ultimo.
 
-🚀 Proficient in HTML, Css, Javascript, PHP.
+🎓 Bachelor of Industrial Design Project of the Product from Pontifical Catholic University.
+
+🚀 Full Stack Developer | MERN | PHP | Python | MySQL | PostgreSQL
 
 📘 Self driven.
 
