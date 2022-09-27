@@ -3,7 +3,9 @@
 
 ## **💻 I'm a Full Stack Developer.**
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](www.linkedin.com/in/gus-dacosta/)
+## [www.gucosta.com](https://www.guscosta.com/)
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gus-dacosta/)
 
 🎓 Diploma of Information Technology from Coder Academy (Currently Enrolled).
 
