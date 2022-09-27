@@ -20,7 +20,7 @@ Hi there ✋ I am Gus Costa.
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 ![ReactJS](https://img.icons8.com/color/48/react-native.png) 
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
-![PHP](https://img.icons8.com/officel/16/000000/php-logo.png)
+![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)
 ![NPM](https://img.icons8.com/color/48/npm.png)
 ![Github](https://img.icons8.com/material-outlined/48/github.png) 
 ![Git](https://img.icons8.com/color/48/git.png) 
