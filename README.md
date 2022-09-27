@@ -13,7 +13,9 @@
 
 🎓 Bachelor of Industrial Design Project of the Product from Pontifical Catholic University.
 
-🚀 Full Stack Developer | MERN | PHP | Python | MySQL | PostgreSQL
+# **🚀 Full Stack Developer**
+
+| MERN | PHP | Python | MySQL | PostgreSQL |
 
 ![HTML5](https://img.icons8.com/color/48/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/css3.png) 
