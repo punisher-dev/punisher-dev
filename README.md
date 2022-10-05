@@ -20,7 +20,7 @@
 ![SASS](https://img.icons8.com/color/48/sass.png) 
 ![JavaScript](https://img.icons8.com/color/48/javascript.png) 
 ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
-![mySQL](https://img.icons8.com/color/48/000000/mysql.png) 
+![mySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) 
 ![NodeJS](https://img.icons8.com/color/48/nodejs.png)
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 ![ReactJS](https://img.icons8.com/color/48/react-native.png) 
