@@ -25,7 +25,7 @@
 ![ReactJS](https://img.icons8.com/color/48/react-native.png) 
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
 ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)
-![Flask](https://img.icons8.com/color/48/flask.png)
+![Flask](https://img.icons8.com/nolan/48/flask.png)
 ![NPM](https://img.icons8.com/color/48/npm.png)
 ![Github](https://img.icons8.com/material-outlined/48/github.png) 
 ![Git](https://img.icons8.com/color/48/git.png) 
