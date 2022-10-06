@@ -32,6 +32,7 @@
 ![Git](https://img.icons8.com/color/48/git.png) 
 ![VSCode](https://img.icons8.com/color/48/visual-studio-code-2019.png) 
 ![Terminal](https://img.icons8.com/color/48/console.png)
+![Ubuntu](https://img.icons8.com/color/48/ubuntu--v1.png)
 
 ## Github Stats
 
