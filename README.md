@@ -38,9 +38,9 @@
 ![Linux](https://img.icons8.com/color/48/wordpress--v1.png)
 
 ## Github Stats
-[![Gus's GitHub stats](https://github-readme-stats.vercel.app/api?username=punisher_dev)](https://github.com/punisher_dev/github-readme-stats)
+[![Gus's GitHub stats](https://github-readme-stats.vercel.app/api?username=punisher-dev&show_icons=true&theme=dracula)](https://github.com/punisher-dev/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punisher_dev)](https://github.com/punisher_dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punisher-dev)](https://github.com/punisher-dev/github-readme-stats)
 
 <!--
 
