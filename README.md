@@ -35,13 +35,13 @@
 ![VSCode](https://img.icons8.com/color/48/visual-studio-code-2019.png) 
 ![Terminal](https://img.icons8.com/color/48/console.png)
 ![Ubuntu](https://img.icons8.com/color/48/ubuntu--v1.png)
-![Linux](https://img.icons8.com/color/48/linux--v1.png)
+![Linux](https://img.icons8.com/color/48/wordpress--v1.png)
 
 ## Github Stats
 
-[![Gus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guscosta88&show_icons=true&theme=dracula)](https://github.com/Guscosta88)
+[![Gus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=punisher_dev&show_icons=true&theme=dracula)](https://github.com/punisher_dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guscosta88&layout=compact&theme=dracula)](https://github.com/Guscosta88)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punisher_dev&layout=compact&theme=dracula)](https://github.com/punisher_dev)
 
 <!--
 
